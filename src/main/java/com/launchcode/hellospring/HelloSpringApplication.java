@@ -8,6 +8,8 @@ public class HelloSpringApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(HelloSpringApplication.class, args);
+//		String message = Message.getMessage("fr");
+//		System.out.println(message);
 	}
 
 }
